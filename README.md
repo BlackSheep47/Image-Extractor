@@ -15,8 +15,8 @@ The Image Extractor Tool is a powerful and user-friendly application designed to
 
 <h2>Use</h2>
 
-`git clone https://github.com/BlackSheep47/Open-Port-Scanner.git`<br>
-`cd Open-Port-Scanner`<br>
+`https://github.com/BlackSheep47/Image-Extractor.git`<br>
+`cd Image-Extractor`<br>
 `python port-scanner.py`<br>
 
 > [!Note]
