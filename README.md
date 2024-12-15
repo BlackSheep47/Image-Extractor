@@ -20,8 +20,11 @@ Install pip (Python's package installer).<br>
 
 <br>
 <h3>Setup Instructions</h3>
-Clone or Download the Project:
-Save the Python file and associated templates (e.g., index.html) in a project folder.
+Clone or Download the Project: 
+
+`https://github.com/BlackSheep47/Image-Extractor.git`<br>
+
+Save the Python file and associated templates (e.g., index.html) in a project folder.<br>
 Open a terminal or command prompt and navigate to the folder containing the project file
 
 `cd path/to/project/folder`
@@ -32,6 +35,30 @@ Open a terminal or command prompt and navigate to the folder containing the proj
 `source venv/bin/activate    # On Linux/Mac` <br>
 `venv\Scripts\activate       # On Windows`<br>
 
+<h3>Install Dependencies</h3>
+Use the requirements.txt file to install the necessary Python packages<br>
 
+`pip install -r requirements.txt`<br>
+
+<h3>Run the Application</h3>
+Run the Flask application using the following command<br>
+
+`python app.py`
+
+<h3>Access the Application</h3>
+Open your browser and navigate to<br>
+
+`http://127.0.0.1:5000/`
+
+<h2>Usage</h2>
+
+* Enter the URL of a webpage containing images.
+* View the extracted images and metadata.
+* Download images in PNG format using the provided links.
+
+<h3>Stop the Application</h3>
+Press Ctrl+C in the terminal to stop the Flask server.
+
+<br>
 > [!Note]
 > Built with Python and Flask, the tool leverages web scraping (using BeautifulSoup) and image processing (via Pillow) to ensure reliability and efficiency, making it ideal for developers, designers, and content creators.
