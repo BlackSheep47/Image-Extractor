@@ -13,11 +13,25 @@ The Image Extractor Tool is a powerful and user-friendly application designed to
 * Image Preview and Details: Displays image metadata for easy selection.
 * Image Conversion: Allows downloading images in PNG format regardless of their original type.
 
-<h2>Use</h2>
+<br>
+<h2>Run Instructions for the Image Extractor Tool</h2>
+Ensure Python 3.8 or above is installed on your system.<br>
+Install pip (Python's package installer).<br>
 
-`https://github.com/BlackSheep47/Image-Extractor.git`<br>
-`cd Image-Extractor`<br>
-`python port-scanner.py`<br>
+<br>
+<h3>Setup Instructions</h3>
+Clone or Download the Project:
+Save the Python file and associated templates (e.g., index.html) in a project folder.
+Open a terminal or command prompt and navigate to the folder containing the project file
+
+`cd path/to/project/folder`
+
+<h3>Create a Virtual Environment (Optional but Recommended)</h3>
+
+`python -m venv venv` <br>
+`source venv/bin/activate    # On Linux/Mac` <br>
+`venv\Scripts\activate       # On Windows`<br>
+
 
 > [!Note]
 > Built with Python and Flask, the tool leverages web scraping (using BeautifulSoup) and image processing (via Pillow) to ensure reliability and efficiency, making it ideal for developers, designers, and content creators.
