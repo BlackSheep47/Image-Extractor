@@ -57,7 +57,7 @@ Open your browser and navigate to<br>
 * Download images in PNG format using the provided links.
 
 <h3>Stop the Application</h3>
-Press Ctrl+C in the terminal to stop the Flask server.
+Press Ctrl+C in the terminal to stop the Flask server.<br>
 
 <br>
 > [!Note]
