@@ -60,5 +60,19 @@ Open your browser and navigate to<br>
 Press Ctrl+C in the terminal to stop the Flask server.<br>
 
 <br>
+<div align="center">
+  
+<h3> Demonstration</h3>
+  
+![image](https://github.com/user-attachments/assets/27bddeba-1f7d-45ec-86af-911c1b147a90)
+![image](https://github.com/user-attachments/assets/d4bdebea-7a9d-485b-b3ef-4ba9317fb510)
+![image](https://github.com/user-attachments/assets/1d0fcf96-890f-4758-a9f7-013171edf569)
+
+</div>
+
+
+
+
+<br>
 > [!Note]
 > Built with Python and Flask, the tool leverages web scraping (using BeautifulSoup) and image processing (via Pillow) to ensure reliability and efficiency, making it ideal for developers, designers, and content creators.
